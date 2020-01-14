@@ -1,0 +1,46 @@
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	
+	.container{
+		border: 3px solid red;
+	}
+	#portfolio .container .res1 img{
+		 
+             border: 2px solid green;
+                 margin-top: 450px;
+               margin-left: -428px;
+	
+}
+#animationone p{
+	color:red;
+}
+
+#portfolio .container .res2 img{
+		 
+             border: 2px solid green;
+                 margin-top: 412px;
+               margin-left: -428px;
+	
+}
+#portfolio .container h5{
+		 
+             color: red;
+             float: left;
+             padding: 50px;
+	
+}
+
+}
+
+
+@media only screen and (min-width: 570px) and (max-width: 766px) {
+
+
+					#animationone p{
+						color:green;
+					}
+
+
+	}
